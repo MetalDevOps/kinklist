@@ -48,7 +48,7 @@ td + td { border-left-style:none }
 
 .choice {
 	box-sizing:border-box;
-	width:20px;
+	width:15px;
 	height:15px;
 	opacity:.35;
 	overflow:hidden;
